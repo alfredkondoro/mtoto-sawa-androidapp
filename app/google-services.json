@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969006964156",
+    "firebase_url": "https://mtotosawa-androida.firebaseio.com",
+    "project_id": "mtotosawa-androida",
+    "storage_bucket": "mtotosawa-androida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969006964156:android:40ed9d8d1af9d244605fb9",
+        "android_client_info": {
+          "package_name": "com.ab.mtotosawa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969006964156-b5btmgffu9cha87eikj602a3codsev1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6T2S_7kd6-4nUR0KarquSBPesO2hJ-cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969006964156-b5btmgffu9cha87eikj602a3codsev1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
